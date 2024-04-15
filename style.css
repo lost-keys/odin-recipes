@@ -1,0 +1,44 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+  margin: 40px 0;
+  text-align: center;
+}
+
+.title h1 {
+  width: 600px;
+  margin: auto;
+  padding-bottom: 8px;
+  border-bottom: 1px solid black;
+  font-size: 64px;
+}
+
+.recipe-links {
+  text-align: center;
+  list-style-type: none;
+  font-size: 24px;
+}
+
+.recipe-links li {
+  margin: 8px;
+}
+
+.recipe-links a {
+  text-decoration: none;
+  color: black;
+}
+
+.recipe-links a:visited {
+  color: grey;
+}
+.recipe-links a:hover {
+  color: black;
+  font-weight: bold;
+}
+
+
+  
